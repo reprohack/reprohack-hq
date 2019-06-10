@@ -1,2 +1,5 @@
-# reprohack-hq
+# reprohack HQ
 ReproHack Headquarters
+
+
+## Chat to us
