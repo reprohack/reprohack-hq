@@ -1,6 +1,4 @@
-library(magick)
 library(hexSticker)
-library(dplyr)
 
 # The reprohack_image_high.png was made using image.pptx, also in assets
 sticker(here::here("assets", "reprohack_image_high.png"),
