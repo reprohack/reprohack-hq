@@ -2,7 +2,7 @@ library(magick)
 library(hexSticker)
 library(dplyr)
 
-
+# The reprohack_image_high.png was made using image.pptx, also in assets
 sticker(here::here("assets", "reprohack_image_high.png"),
         package="ReproHack", 
         p_size=7, s_x=1.0, s_y=0.8, s_width=1.05, 
