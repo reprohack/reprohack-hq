@@ -29,7 +29,7 @@ It's imperative to note that  **ReproHacks are by no means an attempt to critici
 
 <br>
 
-### `r shiny::icon("newspaper")`  **Propose a paper**
+### :page_facing_up: **Propose a paper**
 
 ##### You've put a lot of effort into making your work reproducible. Now let people learn from and engage with it! 
 
@@ -43,9 +43,8 @@ Benefits to authors:
 
 <br>
 
-### `r shiny::icon("redo-alt")`  **Reproduce**
+### :arrows_counterclockwise: :white_check_mark: **Reproduce**
 
-<i class="fas fa-redo-alt fa-spin fa-2x" style="color: firebrick"></i>
 
 ##### Join us at the ReproHack and get working with other people's material.
 
