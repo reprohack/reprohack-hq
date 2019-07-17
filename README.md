@@ -1,5 +1,5 @@
 # reprohack HQ
-ReproHack Headquarters
+Welcome to the ReproHack Headquarters! :tada:
 
 
 ## Chat to us
