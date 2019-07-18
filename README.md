@@ -83,7 +83,8 @@ Benefits to participants:
 
 ### Run a ReproHack!
 
-Please get in touch if you would like to run a ReproHack. We are working to make materials more reusable and easier to reproduce and also on developing guidance on organising and running an event so that in future folks will be able to run everything independently. However, at this stage, we wold really appreciate the contact in order to both help and to learn from gthe experiences local organisers have
+Please get in touch if you would like to run a ReproHack. We are working to make materials more reusable and easier to reproduce and also on developing guidance on organising and running an event so that in future folks will be able to run everything independently.
+There are currently [reusable materials](https://github.com/reprohack/reprohack-template-shiny) and [instructions for organisers](organiser_instructions.md). However, there are plans to streamline the materials & workflow. At this stage, we also really appreciate contact with organisers in order to both help and to learn from their experiences.
 
 ### Hack the ReproHack!
 
