@@ -67,11 +67,6 @@ Benefits to participants:
 - Identification of what works and where the most pressing weaknesses in our approaches are.
 
 
-
-### Road Map
-
-
-
 ***
 
 ### Contributing
@@ -82,7 +77,7 @@ Please get in touch if you would like to run a ReproHack yourself. We are workin
 
 #### Hack the ReproHack!
 
-There are a number of topics we are working on to improve the events and make them reproducible and scalable. More details on the 
+There are a [number of topics](dev_directions.md) we are working on to improve the events and make them reproducible and scalable. Details on the main development directions can be found in the on the 
 
 See [Roadmap]() for more details on milestones
 
