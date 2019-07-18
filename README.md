@@ -1,5 +1,13 @@
-# reprohack HQ
-Welcome to the ReproHack Headquarters! :tada:
+# ReproHack HQ 
+Welcome to the ReproHack Headquarters! :tada:  
+
+<img src="hex/reprohack.png" width=150px>
+
+[![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
+
+***
+
+<br>
 
 
 ## What is a ReproHack
@@ -20,10 +28,6 @@ Participants get to work with other people's material in a low pressure environm
 
 It's imperative to note that  **ReproHacks are by no means an attempt to criticise or discredit work**. We see reproduction as **beneficial scientific activity in itself**, with useful outcomes for authors and valuable learning experiences for the participants and the research community as a whole.
 
-![](assets/workflow.png)
-
-
-### Ways to participate 
 
 ## **Ways to participate**
 
@@ -69,13 +73,19 @@ Benefits to participants:
 
 ***
 
-### Contributing
+## Many ways to ReproHack!
 
-#### Run a ReproHack!
+![](assets/workflow.png)
 
-Please get in touch if you would like to run a ReproHack yourself. We are working to make materials more reusable and easier to reproduce and also on developing guidance on organising and running an event so that in future folks will be able to run everything independently. However, at this stage, we wold really appreciate the contact in order to both help and to learn from gthe experiences local organisers have
+***
 
-#### Hack the ReproHack!
+## Contributing
+
+### Run a ReproHack!
+
+Please get in touch if you would like to run a ReproHack. We are working to make materials more reusable and easier to reproduce and also on developing guidance on organising and running an event so that in future folks will be able to run everything independently. However, at this stage, we wold really appreciate the contact in order to both help and to learn from gthe experiences local organisers have
+
+### Hack the ReproHack!
 
 There are a [number of topics](dev_directions.md) we are working on to improve the events and make them reproducible and scalable. Details on the main development directions can be found in the on the 
 
