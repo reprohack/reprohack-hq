@@ -14,12 +14,15 @@ As such we well be developing a system that is fully open and relies solely on G
 
 ## Organiser checklist
 
-- [ ] Copy template repository [**`reprohack-template-shiny`**](https://github.com/reprohack/reprohack-template-shiny)
+- [ ] Copy template repository [**`reprohack-template-shiny`**](https://github.com/reprohack/reprohack-template-shiny). Name the repository: `reprohack-<location>-YYYY-MM-DD`.
 - [ ] Make copies of the two googleforms, one for collecting paper submissions and one for collecting feedback
     + [paper submission form](https://drive.google.com/open?id=1-Q-dQQu47ytCg2Z7F99hzCSxewLCbPUi8UlZWg0JYjI)
     + [author feedback form](https://drive.google.com/open?id=1KRooOAtbmOzIES1h2T9Gvt7AaPFLDS0BQUZRiimJZSU)
 - [ ] Create a hackpad (eg etherpad, hack.md, googledoc) for collaborative notetaking at the event (optional)
     + you can use this [hackmd.io template](https://hackmd.io/@annakrystalli/reprohack-hackpad-tmpl) if you wish
+- [ ] Get geographical coordinates for venue. 
+- [ ] Complete parameters in YAML header of `index.Rmd` & `README.Rmd`. Knit and push to GitHub.
+- [ ] Upload slides to hackmd.io and [set to slide view](https://hackmd.io/s/features#Import-Notes).
 
 
 ![](assets/workflow.png)
