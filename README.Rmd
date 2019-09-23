@@ -114,11 +114,15 @@ See [Roadmap]() for more details on milestones
 # Upcoming Reprohacks
 
 ```{r}
-event_log <- readr::read_csv("data/event-log.csv")
- event_log %>%
-    select(-lat, - lon) %>%
-     filter(date >= Sys.Date()) %>%
-knitr::kable()
+event_log <- readr::read_csv("data/event-log.csv") %>% 
+    mutate(upcoming =  date >= Sys.Date()) %>%
+    mutate(title = glue::glue("[{title}]({url})"))
+
+event_log %>%
+    filter(upcoming == TRUE) %>%
+    select(-lat, - lon, -upcoming, -room, -address, -url) %>%
+    arrange(date) %>%
+    knitr::kable()
 ```
 
 
@@ -126,8 +130,8 @@ knitr::kable()
 
 ```{r}
  event_log %>%
-    select(-lat, - lon) %>%
-     filter(date < Sys.Date()) %>%
+     filter(upcoming == FALSE) %>%
+    select(-lat, - lon, -upcoming, -room, -address, -url) %>%
     arrange(date) %>%
 knitr::kable()
 ```
@@ -135,9 +139,26 @@ knitr::kable()
 ## Map of Reprohacks
 
 ```{r map}
-leaflet(event_log) %>%
-    addProviderTiles("Stamen.Watercolor") %>%
-    addMarkers()
+plot_log <- event_log %>%
+    mutate(color = case_when(upcoming == TRUE ~ "green",
+                             upcoming == FALSE ~ "orange"))
+
+
+#pal <- colorFactor(c("green", "orange"), c(FALSE, TRUE))
+
+icons <- awesomeIcons(
+  icon = 'ios-close',
+  iconColor = 'black',
+  library = 'ion',
+  markerColor = plot_log$color
+)
+
+plot_log %>%
+    leaflet() %>%
+    addProviderTiles("CartoDB.Positron") %>%
+    addAwesomeMarkers(icon = icons) #%>%
+    #addLegend("bottomright", pal = pal, values = ~upcoming,
+              #opacity = 0.7)
 ```
 
 ***

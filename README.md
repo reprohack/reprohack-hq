@@ -133,17 +133,17 @@ milestones
 
 # Upcoming Reprohacks
 
-| title        | date       | start\_time | end\_time | city   | country     | room | address | url                                                                              |
-| :----------- | :--------- | :---------- | :-------- | :----- | :---------- | :--- | :------ | :------------------------------------------------------------------------------- |
-| ReproHack NL | 2019-11-30 | 10:00:00    | 17:00:00  | Leiden | Netherlands | NA   | NA      | <https://www.eventbrite.co.uk/e/reprohack-nl-tickets-73258469053?aff=erelexpmlt> |
+| title                                                                                          | date       | start\_time | end\_time | city   | country     |
+| :--------------------------------------------------------------------------------------------- | :--------- | :---------- | :-------- | :----- | :---------- |
+| [ReproHack NL](https://www.eventbrite.co.uk/e/reprohack-nl-tickets-73258469053?aff=erelexpmlt) | 2019-11-30 | 10:00:00    | 17:00:00  | Leiden | Netherlands |
 
 ## Past Reprohacks
 
-| title                            | date       | start\_time | end\_time | city       | country | room                                                        | address                                                  | url                                                                              |
-| :------------------------------- | :--------- | :---------- | :-------- | :--------- | :------ | :---------------------------------------------------------- | :------------------------------------------------------- | :------------------------------------------------------------------------------- |
-| ReproHack @ OpenCon Berlin       | 2016-11-24 | 13:00:00    | 18:00:00  | Berlin     | Germany | Technical University of Berlin, Centre for Entrepreneurship | Hardenbergstraße 38, 10623 Berlin                        | <https://github.com/annakrystalli/OpenConBerlin_ReproHack>                       |
-| ReproHack @ OpenCon London       | 2017-11-21 | 09:00:00    | 17:00:00  | London     | UK      | Digital Science                                             | The Stables 2 Trematon Walk, Kings Cross, N1 9FN, London | <https://github.com/OpenCon-London/OpenCon_London-Doathon/blob/master/README.md> |
-| ReproHack @ CarpentryConnect Mcr | 2019-06-27 | 09:30:00    | 15:30:00  | Manchester | UK      | Room 2.15, Kilburn Building,                                | University of Manchester, Oxford Rd, Manchester M13 9PL  | <https://sheffield-university.shinyapps.io/ReproHack_CCMcr/>                     |
+| title                                                                                                        | date       | start\_time | end\_time | city       | country |
+| :----------------------------------------------------------------------------------------------------------- | :--------- | :---------- | :-------- | :--------- | :------ |
+| [ReproHack @ OpenCon Berlin](https://github.com/annakrystalli/OpenConBerlin_ReproHack)                       | 2016-11-24 | 13:00:00    | 18:00:00  | Berlin     | Germany |
+| [ReproHack @ OpenCon London](https://github.com/OpenCon-London/OpenCon_London-Doathon/blob/master/README.md) | 2017-11-21 | 09:00:00    | 17:00:00  | London     | UK      |
+| [ReproHack @ CarpentryConnect Mcr](https://sheffield-university.shinyapps.io/ReproHack_CCMcr/)               | 2019-06-27 | 09:30:00    | 15:30:00  | Manchester | UK      |
 
 ## Map of Reprohacks
 
