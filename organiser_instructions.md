@@ -32,7 +32,7 @@ To make use of the current materials and templates to organise a ReproHack, plea
     + [author feedback form](https://drive.google.com/open?id=1KRooOAtbmOzIES1h2T9Gvt7AaPFLDS0BQUZRiimJZSU)
 - [ ] Create a hackpad (eg etherpad, hack.md, googledoc) for collaborative notetaking at the event (optional)
     + you can use this [hackmd.io template](https://hackmd.io/@annakrystalli/reprohack-hackpad-tmpl) if you wish
-- [ ] Get geographical coordinates for venue. 
+- [ ] Get geographical coordinates for venue (e. g. using [latlong.net](https://www.latlong.net/)). 
 - [ ] Complete parameters in YAML header of `index.Rmd` & `README.Rmd`. 
     - [ ] Knit `README.Rmd` and push to GitHub.
     - [ ] [Deploy](https://bookdown.org/yihui/rmarkdown/shiny-deploy.html) `index.Rmd` on shinyapps.io. (More on [getting started with shinyapps.io](https://shiny.rstudio.com/articles/shinyapps.html)). Running the document also prompts you to authenticate with google which produces an `.httr-oauth` authorisation token. You will need to deploy:
