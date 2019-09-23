@@ -94,6 +94,14 @@ There are a [number of topics](dev_directions.md) we are working on to improve t
 
 See [Roadmap]() for more details on milestones
 
+<br>
+
+## More on the ReproHack:
+
+- **Blogpost**: [ReproHacking at Opencon London 2017 Doathon](https://rse.shef.ac.uk/blog/opencon-london/)
+- **Blogpost**: [Reprohacking at CarpentryConnect Manchester 2019](https://software.ac.uk/blog/2019-08-07-reprohacking-carpentryconnect-manchester-2019)
+- **Comunity Call**: Section on ReproHack on [Reproducible Research with R, rOpenSci Community Call](https://vimeo.com/351259131)
+
 
 ***
 
