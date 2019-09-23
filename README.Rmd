@@ -134,7 +134,7 @@ knitr::kable()
 
 ## Map of Reprohacks
 
-```{r}
+```{r map}
 leaflet(event_log) %>%
     addProviderTiles("Stamen.Watercolor") %>%
     addMarkers()

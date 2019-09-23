@@ -147,7 +147,7 @@ milestones
 
 ## Map of Reprohacks
 
-![](README_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
+![](README_files/figure-gfm/map-1.png)<!-- -->
 
 -----
 
