@@ -3,7 +3,8 @@
 #   add_step(step_...(...))
 
 get_stage("install") %>%
-    add_code_step(install.packages(c("rmarkdown", "dplyr", "leaflet", "glue")))
+    add_code_step(install.packages(c("rmarkdown", "dplyr", 
+                                     "leaflet", "glue", "readr")))
 
 
 
