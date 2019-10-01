@@ -11,11 +11,11 @@ During a ReproHack, **participants attempt to reproduce published research of th
 
 ### 3. Why people should attend
 
-ReproHacks offer a low pressure environment and an opportunity to work on real published materials instead of just simplified dummy examples. It also provides a space for authors to put their papers to the reproducibility and get constructive and feedback.
+ReproHacks offer a low pressure environment to work on real published materials instead of just simplified dummy examples. It also provides a space for authors to put their papers to the reproducibility test and get constructive and feedback on their work.
 
 
 ### 4. What do you learn from the event?
 
-Participants get practical expperience in reproducibility and opportunity to explore what different approaches look like and what they achieve. They'll also get an appreciation that while **reproducibility is non trivial**, opening up work for more people to engage with is the best way to help improve it. They'll also see that **reproducibility has community value beyond just the validation of the results** by increasing engagemnet with the research itself.
+Participants get practical experience in reproducibility and opportunity to explore what different approaches to reproducibility look like and what they achieve. They'll also get an appreciation that while **reproducibility is non trivial**, opening up work for more people to engage with is the best way to help improve it. They'll also see that **reproducibility has community value beyond just the validation of the results** by increasing engagement with the research itself.
 
 Authors also stand to benefit from getting feedback on how reproducible, transparent and reusable their work is, **appreciation** for their efforts and opportunity to **engage others with their research**.

@@ -2,7 +2,7 @@
 
 Reprohacks are **reproducibility hackathons** designed to provide space to **celebrate** the value of the practice, and also get **practical experience** of reproducibility.
 
-The objective of a Reprohack is to **reproduce results from published data AND code**. To develop a candidate paper list, authors are invited to submit their papers for reproduction. This gives participants the opportunity to work with real published materials, understand what different approaches look like and succeed and hopefully inspiration to be more open with their work themselves.
+The objective of a Reprohack is to **reproduce results from published data AND code**. To develop a candidate paper list, authors are invited to submit their papers for reproduction. This gives participants the opportunity to work with real published materials, understand what different approaches look like and what they achieve and hopefully inspiration to be more open with their work themselves.
 
 It is also a great opportunity for authors to get useful feedback on the reproducibility, reusability and transparency of their work, recognition for their efforts and and of course, opportunity to engage others with the science itself!
 
