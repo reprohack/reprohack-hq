@@ -1,1 +1,3 @@
 ^README\.Rmd$
+^\.travis\.yml$
+^tic\.R$
