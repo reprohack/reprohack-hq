@@ -11,7 +11,8 @@ Welcome to the ReproHack Headquarters\! :tada:
 
 [![Project Status: WIP – Initial development is in progress, but there
 has not yet been a stable, usable release suitable for the
-public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
+public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)[![Build
+Status](https://travis-ci.org/reprohack/reprohack-hq.svg?branch=master)](https://travis-ci.org/reprohack/reprohack-hq)
 [![Gitter](https://badges.gitter.im/reprohack/community.svg)](https://gitter.im/reprohack/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 [![Newsletter](https://img.shields.io/badge/subscribe-newsletter-blueviolet?style=for-the-badge)](https://tinyletter.com/reprohack-hq)
