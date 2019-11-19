@@ -1,6 +1,12 @@
 title,date,start_time,end_time,city,country,room,address,url,lat,lon
 ReproHack NL,2019-11-30,10:00,17:00,Leiden,Netherlands,,,https://www.eventbrite.co.uk/e/reprohack-nl-tickets-73258469053?aff=erelexpmlt,52.1601,4.497
-ReproHack @ CarpentryConnect Mcr,2019-06-27,9:30,15:30,Manchester,UK,"Room 2.15, Kilburn Building, ","University of Manchester, Oxford Rd, Manchester M13 9PL",https://sheffield-university.shinyapps.io/ReproHack_CCMcr/,53.4670673,-2.2341808
+ReproHack @ CarpentryConnect Mcr,2019-06-27,9:30,15:30,Manchester,UK,"Room 2.15, Kilburn Building,","University of Manchester, Oxford Rd, Manchester M13 9PL",https://sheffield-university.shinyapps.io/ReproHack_CCMcr/,53.4670673,-2.2341808
 ReproHack @ OpenCon Berlin,2016-11-24,13:00,18:00,Berlin,Germany,"Technical University of Berlin, Centre for Entrepreneurship
 ","Hardenbergstraße 38, 10623 Berlin",https://github.com/annakrystalli/OpenConBerlin_ReproHack,52.511268,13.324111
 ReproHack @ OpenCon London,2017-11-21,9:00,17:00,London,UK,Digital Science,"The Stables 2 Trematon Walk, Kings Cross, N1 9FN, London",https://github.com/OpenCon-London/OpenCon_London-Doathon/blob/master/README.md,51.509648,-0.099076
+Reprohack @ PyData LA,2019-12-03,12:30,17:30,Los Angeles,USA,Golden Eagle Ballroom 3,CSU Los Angeles,https://njnm.shinyapps.io/ReproHack_PDLA19/,34.0673123,-118.1691633
+N8 CIR ReproHack Newcastle,2020-01-21,10:00,17:00,Newcastle,UK,,,,54.9783,-1.6178
+N8 CIR ReproHack Leeds,2020-02-11,10:00,17:00,Leeds,UK,,,,53.8008,-1.5491
+N8 CIR ReproHack Liverpool,2020-02-25,10:00,17:00,Liverpool,UK,,,,53.4084,-2.9916
+N8 CIR ReproHack Sheffield,2020-03-10,10:00,17:00,Sheffield,UK,,,,53.3705476,-1.4887006
+N8 CIR ReproHack Manchester,2020-03-12,10:00,17:00,Manchester,UK,,,,53.4808,-2.2426
