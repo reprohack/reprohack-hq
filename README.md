@@ -22,6 +22,18 @@ Status](https://travis-ci.org/reprohack/reprohack-hq.svg?branch=master)](https:/
 
 <br>
 
+> ## 🚧 NEW HUB UNDER CONSTRUCTION\! 🚧
+> 
+> *We are building a custom website to facilitate ReproHack activities
+> going forwards. It is still very much under construction and buggy but
+> hoping to have it functional by early next year.*
+> 
+> *You can [check it out](http://annakrystalli.pythonanywhere.com/) or
+> if you have Django skills
+> [contribute](https://github.com/reprohack/reprohack_site)\!*
+
+-----
+
 ## What is a ReproHack
 
 ### A one day, hands-on Reproducibility Hackathon

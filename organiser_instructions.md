@@ -1,5 +1,16 @@
 # Organiser Instructions
 
+***
+
+<br>
+
+> ## `r emo::ji("construction")` NEW HUB UNDER CONSTRUCTION! `r emo::ji("construction")`
+>
+>  _We are building a custom website to facilitate ReproHack activities going forwards. It is still very much under construction and buggy but hoping to have it functional by early next year. In the meantime you can continue to use the current materials_
+> 
+> _You can [check it out](http://annakrystalli.pythonanywhere.com/) or if you have Django skills [contribute](https://github.com/reprohack/reprohack_site)!_
+
+***
 The most important preparation to run a Reprohack is to collate a paper list for participants to choose from. Inviting contributions from authors requires a form through which they can submit details of their papers and a web page to present the paper list. A way of collecting and communicating particpant feedback to authors is also required.
 
 **We are working to make materials more reusable and easier to reproduce to make ReproHacks easy to run and scale.** 
