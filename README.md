@@ -11,8 +11,7 @@ Welcome to the ReproHack Headquarters\! :tada:
 
 [![Project Status: WIP – Initial development is in progress, but there
 has not yet been a stable, usable release suitable for the
-public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)[![Build
-Status](https://travis-ci.org/reprohack/reprohack-hq.svg?branch=master)](https://travis-ci.org/reprohack/reprohack-hq)
+public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
 [![Gitter](https://badges.gitter.im/reprohack/community.svg)](https://gitter.im/reprohack/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 [![Newsletter](https://img.shields.io/badge/subscribe-newsletter-blueviolet?style=for-the-badge)](https://tinyletter.com/reprohack-hq)
@@ -146,23 +145,23 @@ milestones
 
 # Upcoming Reprohacks
 
-| title                                                                                          | date       | start\_time | end\_time | city        | country     |
-| :--------------------------------------------------------------------------------------------- | :--------- | :---------- | :-------- | :---------- | :---------- |
-| [ReproHack NL](https://www.eventbrite.co.uk/e/reprohack-nl-tickets-73258469053?aff=erelexpmlt) | 2019-11-30 | 10:00:00    | 17:00:00  | Leiden      | Netherlands |
-| [Reprohack @ PyData LA](https://njnm.shinyapps.io/ReproHack_PDLA19/)                           | 2019-12-03 | 12:30:00    | 17:30:00  | Los Angeles | USA         |
-| [N8 CIR ReproHack Newcastle](NA)                                                               | 2020-01-21 | 10:00:00    | 17:00:00  | Newcastle   | UK          |
-| [N8 CIR ReproHack Leeds](NA)                                                                   | 2020-02-11 | 10:00:00    | 17:00:00  | Leeds       | UK          |
-| [N8 CIR ReproHack Liverpool](NA)                                                               | 2020-02-25 | 10:00:00    | 17:00:00  | Liverpool   | UK          |
-| [N8 CIR ReproHack Sheffield](NA)                                                               | 2020-03-10 | 10:00:00    | 17:00:00  | Sheffield   | UK          |
-| [N8 CIR ReproHack Manchester](NA)                                                              | 2020-03-12 | 10:00:00    | 17:00:00  | Manchester  | UK          |
+| title                             | date       | start\_time | end\_time | city       | country |
+| :-------------------------------- | :--------- | :---------- | :-------- | :--------- | :------ |
+| [N8 CIR ReproHack Newcastle](NA)  | 2020-01-21 | 10:00:00    | 17:00:00  | Newcastle  | UK      |
+| [N8 CIR ReproHack Leeds](NA)      | 2020-02-11 | 10:00:00    | 17:00:00  | Leeds      | UK      |
+| [N8 CIR ReproHack Liverpool](NA)  | 2020-02-25 | 10:00:00    | 17:00:00  | Liverpool  | UK      |
+| [N8 CIR ReproHack Sheffield](NA)  | 2020-03-10 | 10:00:00    | 17:00:00  | Sheffield  | UK      |
+| [N8 CIR ReproHack Manchester](NA) | 2020-03-12 | 10:00:00    | 17:00:00  | Manchester | UK      |
 
 ## Past Reprohacks
 
-| title                                                                                                        | date       | start\_time | end\_time | city       | country |
-| :----------------------------------------------------------------------------------------------------------- | :--------- | :---------- | :-------- | :--------- | :------ |
-| [ReproHack @ OpenCon Berlin](https://github.com/annakrystalli/OpenConBerlin_ReproHack)                       | 2016-11-24 | 13:00:00    | 18:00:00  | Berlin     | Germany |
-| [ReproHack @ OpenCon London](https://github.com/OpenCon-London/OpenCon_London-Doathon/blob/master/README.md) | 2017-11-21 | 09:00:00    | 17:00:00  | London     | UK      |
-| [ReproHack @ CarpentryConnect Mcr](https://sheffield-university.shinyapps.io/ReproHack_CCMcr/)               | 2019-06-27 | 09:30:00    | 15:30:00  | Manchester | UK      |
+| title                                                                                                        | date       | start\_time | end\_time | city        | country     |
+| :----------------------------------------------------------------------------------------------------------- | :--------- | :---------- | :-------- | :---------- | :---------- |
+| [ReproHack @ OpenCon Berlin](https://github.com/annakrystalli/OpenConBerlin_ReproHack)                       | 2016-11-24 | 13:00:00    | 18:00:00  | Berlin      | Germany     |
+| [ReproHack @ OpenCon London](https://github.com/OpenCon-London/OpenCon_London-Doathon/blob/master/README.md) | 2017-11-21 | 09:00:00    | 17:00:00  | London      | UK          |
+| [ReproHack @ CarpentryConnect Mcr](https://sheffield-university.shinyapps.io/ReproHack_CCMcr/)               | 2019-06-27 | 09:30:00    | 15:30:00  | Manchester  | UK          |
+| [ReproHack NL](https://www.eventbrite.co.uk/e/reprohack-nl-tickets-73258469053?aff=erelexpmlt)               | 2019-11-30 | 10:00:00    | 17:00:00  | Leiden      | Netherlands |
+| [Reprohack @ PyData LA](https://njnm.shinyapps.io/ReproHack_PDLA19/)                                         | 2019-12-03 | 12:30:00    | 17:30:00  | Los Angeles | USA         |
 
 ## Map of Reprohacks
 
