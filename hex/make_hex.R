@@ -31,5 +31,3 @@ sticker(here::here("assets", "reprohack-graphic.svg"),
         filename="hex/reprohack.svg", spotlight = F, asp = 0.7679814,
         dpi=2700)
 
-
-
