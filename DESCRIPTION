@@ -1,0 +1,27 @@
+Type: Compendium
+Package: reprohack-HQ
+Title: Reprohack HQ repository
+Version: 0.0.1
+Authors@R: 
+    person(given = "Anna",
+           family = "Krystalli",
+           role = c("aut", "cre"),
+           email = "annakrystalli@googlemail.com",
+           comment = c(ORCID = "0000-0002-2378-4915"))
+Description: Compendium description
+License: What license it uses
+Depends: 
+    dplyr,
+    emo,
+    glue,
+    here,
+    hexSticker,
+    knitr,
+    leaflet,
+    readr,
+    rmarkdown,
+    showtext
+Remotes: 
+    hadley/emo
+Encoding: UTF-8
+LazyData: true
