@@ -196,6 +196,10 @@ Call](https://vimeo.com/351259131)
 [![Newsletter](https://img.shields.io/badge/subscribe-newsletter-blueviolet?style=for-the-badge)](https://tinyletter.com/reprohack-hq)
 
 ## Team
-
-  - [Anna Krystalli](https://github.com/annakrystalli)
   - [Florencia D’Andrea](https://github.com/flor14)
+  - [Daniela Gawehns](https://github.com/DanielaGawehns)
+  - [Anna Krystalli](https://github.com/annakrystalli)
+  - [Linda Nab](https://github.com/LindaNab)
+  - [Ricarda Proppert](https://github.com/RicardaP)
+  - [Paloma Rojas Saunero](https://github.com/palolili23)
+
