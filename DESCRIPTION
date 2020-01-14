@@ -15,12 +15,10 @@ Depends:
     emo,
     glue,
     here,
-    hexSticker,
     knitr,
     leaflet,
     readr,
-    rmarkdown,
-    showtext
+    rmarkdown
 Remotes: 
     hadley/emo
 Encoding: UTF-8
