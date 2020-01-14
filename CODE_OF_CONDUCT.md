@@ -1,8 +1,8 @@
-Galaxy Project Code of Conduct
+ReproHack Project Code of Conduct
 ==============================
 
 This code of conduct outlines our expectations for participants within the
-Galaxy community, as well as steps to reporting unacceptable behavior. We are
+ReproHack community, as well as steps to reporting unacceptable behavior. We are
 committed to providing a welcoming and inspiring community for all and expect
 our code of conduct to be honored. Anyone who violates this code of conduct may
 be banned from the community.
@@ -51,6 +51,20 @@ Our open source community strives to:
   viewpoint doesn’t mean that they’re wrong. Don’t forget that it is human to
   err and blaming each other doesn’t get us anywhere. Instead, focus on helping
   to resolve issues and learning from mistakes.
+  
+* **We are all here to make Research Better!**: As a participant reviewing authors' work, 
+  be mindful that they are being incredibly brave by sharing their work for review! 
+  Many authors will be self-taught and will have tried their best to make their 
+  work reproducible, often with no formal training or guidance on how to do it. 
+  Yet they are allowing the community to learn from examining their work. Please 
+  appreciate their efforts and make your comments and suggestions in good faith. 
+  
+  Equally, as authors receiving feedback, please be mindful of the fact that reviewers 
+  may be complete beginners. You may receive suggestions that are simplistic or unworkable.
+  Please engage with them in good faith and use them to help reviewers learn. 
+  Also, what appears obvious to you the author may well seem cryptic or confusing 
+  to folks outside your project. Embrace any feedback regarding incomplete or 
+  confusing documentation as valuable insight.
 
 ### Diversity Statement
 
@@ -71,29 +85,23 @@ participants with disabilities.
 ### Reporting Issues
 
 If you experience or witness unacceptable behavior, or have any other concerns,
-please report it by contacting Dave Clements (clementsgalaxy@gmail.com). To
-report an issue involving Dave Clements please email James Taylor
-(james@taylorlab.org). All reports will be handled with discretion. In your
-report please include:
+please report it by completeing our [CoC Incident Report form](https://forms.gle/ukXPeMPsrp9psJTG6) . All reports will be handled with discretion. 
 
-- Your contact information.
+The ReproHack Code of Conduct Committee is responsible for enforcing the Code of Conduct. It can be contacted by emailing [reprohack-coc@googlegroups.com](mailto:reprohack-coc@googlegroups.com). All reports will be reviewed by the Code of Conduct Committee and will be kept confidential.
 
-- Names (real, nicknames, or pseudonyms) of any individuals involved. If there
-  are additional witnesses, please include them as well. Your account of what
-  occurred, and if you believe the incident is ongoing. If there is a publicly
-  available record (e.g. a mailing list archive or a public IRC logger), please
-  include a link.
-
-- Any additional information that may be helpful.
 
 After filing a report, a representative will contact you personally, review the
 incident, follow up with any additional questions, and make a decision as to
-how to respond. If the person who is harassing you is part of the response
+how to respond. The respondent will apply measured response to remove harassers 
+and harassment from this project. 
+
+If the person who is harassing you is part of the response
 team, they will recuse themselves from handling your incident. If the complaint
 originates from a member of the response team, it will be handled by a
 different member of the response team. We will respect confidentiality requests
 for the purpose of protecting victims of abuse.
 
+
 ### Attribution & Acknowledgements
 
-This code of conduct is based on the Open Code of Conduct from the TODOGroup.
+This code of conduct has been adapted from the [Galaxy Project](https://github.com/galaxyproject), and was itself initially based on the Open Code of Conduct from the TODOGroup.
