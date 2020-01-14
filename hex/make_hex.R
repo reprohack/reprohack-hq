@@ -1,3 +1,5 @@
+# install.packages("hexSticker", "showtext")
+
 library(hexSticker)
 library(showtext)
 
