@@ -12,7 +12,7 @@ Welcome to the ReproHack Headquarters\! :tada:
 [![Project Status: WIP – Initial development is in progress, but there
 has not yet been a stable, usable release suitable for the
 public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
-[![Slack](https://img.shields.io/badge/slack-join%20us%20on-brightgreen)](https://reprohack-autoinvite.herokuapp.com/invite)
+[![Slack](https://img.shields.io/badge/slack-join%20us-brightgreen)](https://reprohack-autoinvite.herokuapp.com/)
 
 [![Newsletter](https://img.shields.io/badge/subscribe-newsletter-blueviolet?style=for-the-badge)](https://tinyletter.com/reprohack-hq)
 <!-- badges: end -->
@@ -145,13 +145,13 @@ milestones
 
 # Upcoming Reprohacks
 
-| title                             | date       | start\_time | end\_time | city       | country |
-| :-------------------------------- | :--------- | :---------- | :-------- | :--------- | :------ |
-| [N8 CIR ReproHack Newcastle](NA)  | 2020-01-21 | 10:00:00    | 17:00:00  | Newcastle  | UK      |
-| [N8 CIR ReproHack Leeds](NA)      | 2020-02-11 | 10:00:00    | 17:00:00  | Leeds      | UK      |
-| [N8 CIR ReproHack Liverpool](NA)  | 2020-02-25 | 10:00:00    | 17:00:00  | Liverpool  | UK      |
-| [N8 CIR ReproHack Sheffield](NA)  | 2020-03-10 | 10:00:00    | 17:00:00  | Sheffield  | UK      |
-| [N8 CIR ReproHack Manchester](NA) | 2020-03-12 | 10:00:00    | 17:00:00  | Manchester | UK      |
+| title                                                                                                                       | date       | start\_time | end\_time | city       | country |
+| :-------------------------------------------------------------------------------------------------------------------------- | :--------- | :---------- | :-------- | :--------- | :------ |
+| [N8 CIR ReproHack Newcastle](https://www.eventbrite.co.uk/e/n8-cir-reprohack-newcastle-university-tickets-83584660971)      | 2020-01-21 | 10:00:00    | 17:00:00  | Newcastle  | UK      |
+| [N8 CIR ReproHack Leeds](https://www.eventbrite.co.uk/e/n8-cir-reprohack-university-of-leeds-tickets-83582961889)           | 2020-02-11 | 10:00:00    | 17:00:00  | Leeds      | UK      |
+| [N8 CIR ReproHack Liverpool](https://www.eventbrite.co.uk/e/n8-cir-reprohack-university-of-liverpool-tickets-83584650941)   | 2020-02-25 | 10:00:00    | 17:00:00  | Liverpool  | UK      |
+| [N8 CIR ReproHack Sheffield](https://www.eventbrite.co.uk/e/n8-cir-reprohack-university-of-sheffield-tickets-83581940835)   | 2020-03-10 | 10:00:00    | 17:00:00  | Sheffield  | UK      |
+| [N8 CIR ReproHack Manchester](https://www.eventbrite.co.uk/e/n8-cir-reprohack-university-of-manchester-tickets-83583756265) | 2020-03-12 | 10:00:00    | 17:00:00  | Manchester | UK      |
 
 ## Past Reprohacks
 
@@ -187,19 +187,17 @@ Call](https://vimeo.com/351259131)
 
 <br>
 
-## Chat to us
-
-[![Slack](https://img.shields.io/badge/slack-join%20us%20on-brightgreen)](https://reprohack-autoinvite.herokuapp.com/invite)
+[![Slack](https://img.shields.io/badge/slack-join%20us-brightgreen)](https://reprohack-autoinvite.herokuapp.com/)
 
 ### Subscribe to our Newsletter
 
 [![Newsletter](https://img.shields.io/badge/subscribe-newsletter-blueviolet?style=for-the-badge)](https://tinyletter.com/reprohack-hq)
 
 ## Team
+
   - [Florencia D’Andrea](https://github.com/flor14)
   - [Daniela Gawehns](https://github.com/DanielaGawehns)
   - [Anna Krystalli](https://github.com/annakrystalli)
   - [Linda Nab](https://github.com/LindaNab)
   - [Ricarda Proppert](https://github.com/RicardaP)
   - [Paloma Rojas Saunero](https://github.com/palolili23)
-
