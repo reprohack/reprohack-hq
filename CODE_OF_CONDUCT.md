@@ -4,8 +4,14 @@ ReproHack Project Code of Conduct
 This code of conduct outlines our expectations for participants within the
 ReproHack community, as well as steps to reporting unacceptable behavior. We are
 committed to providing a welcoming and inspiring community for all and expect
-our code of conduct to be honored. Anyone who violates this code of conduct may
-be banned from the community.
+our code of conduct to be honored. 
+
+Everyone participating in ReproHack activities is required to conform to the Code 
+of Conduct. This Code of Conduct applies to all spaces managed by the ReproHack 
+organisation including, but not limited to, events, email lists, and online forums 
+such as GitHub, Slack and Twitter. Event hosts are expected to assist with the 
+enforcement of the Code of Conduct. Anyone who violates this code of conduct may
+be banned from the community, both online and in-person.
 
 Our open source community strives to:
 
