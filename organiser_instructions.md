@@ -4,7 +4,7 @@
 
 <br>
 
-> ## `r emo::ji("construction")` NEW HUB UNDER CONSTRUCTION! `r emo::ji("construction")`
+> ## :construction: NEW HUB UNDER CONSTRUCTION! :construction:
 >
 >  _We are building a custom website to facilitate ReproHack activities going forwards. It is still very much under construction and buggy but hoping to have it functional by early next year. In the meantime you can continue to use the current materials_
 > 
