@@ -177,7 +177,8 @@ plot_log %>%
 - **Blogpost**: [ReproHacking at Opencon London 2017 Doathon](https://rse.shef.ac.uk/blog/opencon-london/)
 - **Blogpost**: [Reprohacking at CarpentryConnect Manchester 2019](https://software.ac.uk/blog/2019-08-07-reprohacking-carpentryconnect-manchester-2019)
 - **Comunity Call**: Section on ReproHack on [Reproducible Research with R, rOpenSci Community Call](https://vimeo.com/351259131)
-
+- **Blogpost**: [Reproducibility Hackathon Netherlands – the aftermath](https://www.software.ac.uk/blog/2020-01-15-reproducibility-hackathon-netherlands-aftermath)
+- **Blogpost**: [N8 CIR ReproHack Northern Tour - Winter 2020](https://n8cir.org.uk/news/reprohacks/)
 
 
 ## Many ways to ReproHack!

@@ -136,8 +136,7 @@ There are a [number of topics](dev_directions.md) we are working on to
 improve the events and make them reproducible and scalable. Details on
 the main development directions can be found in the on the
 
-See [Roadmap]() for more details on
-milestones
+See [Roadmap]() for more details on milestones
 
 <br>
 
@@ -145,23 +144,23 @@ milestones
 
 # Upcoming Reprohacks
 
-| title                                                                                                                       | date       | start\_time | end\_time | city       | country |
-| :-------------------------------------------------------------------------------------------------------------------------- | :--------- | :---------- | :-------- | :--------- | :------ |
-| [N8 CIR ReproHack Newcastle](https://www.eventbrite.co.uk/e/n8-cir-reprohack-newcastle-university-tickets-83584660971)      | 2020-01-21 | 10:00:00    | 17:00:00  | Newcastle  | UK      |
-| [N8 CIR ReproHack Leeds](https://www.eventbrite.co.uk/e/n8-cir-reprohack-university-of-leeds-tickets-83582961889)           | 2020-02-11 | 10:00:00    | 17:00:00  | Leeds      | UK      |
-| [N8 CIR ReproHack Liverpool](https://www.eventbrite.co.uk/e/n8-cir-reprohack-university-of-liverpool-tickets-83584650941)   | 2020-02-25 | 10:00:00    | 17:00:00  | Liverpool  | UK      |
-| [N8 CIR ReproHack Sheffield](https://www.eventbrite.co.uk/e/n8-cir-reprohack-university-of-sheffield-tickets-83581940835)   | 2020-03-10 | 10:00:00    | 17:00:00  | Sheffield  | UK      |
-| [N8 CIR ReproHack Manchester](https://www.eventbrite.co.uk/e/n8-cir-reprohack-university-of-manchester-tickets-83583756265) | 2020-03-12 | 10:00:00    | 17:00:00  | Manchester | UK      |
+| title | date | start\_time | end\_time | city | country |
+| :---- | :--- | :---------- | :-------- | :--- | :------ |
 
 ## Past Reprohacks
 
-| title                                                                                                        | date       | start\_time | end\_time | city        | country     |
-| :----------------------------------------------------------------------------------------------------------- | :--------- | :---------- | :-------- | :---------- | :---------- |
-| [ReproHack @ OpenCon Berlin](https://github.com/annakrystalli/OpenConBerlin_ReproHack)                       | 2016-11-24 | 13:00:00    | 18:00:00  | Berlin      | Germany     |
-| [ReproHack @ OpenCon London](https://github.com/OpenCon-London/OpenCon_London-Doathon/blob/master/README.md) | 2017-11-21 | 09:00:00    | 17:00:00  | London      | UK          |
-| [ReproHack @ CarpentryConnect Mcr](https://sheffield-university.shinyapps.io/ReproHack_CCMcr/)               | 2019-06-27 | 09:30:00    | 15:30:00  | Manchester  | UK          |
-| [ReproHack NL](https://www.eventbrite.co.uk/e/reprohack-nl-tickets-73258469053?aff=erelexpmlt)               | 2019-11-30 | 10:00:00    | 17:00:00  | Leiden      | Netherlands |
-| [Reprohack @ PyData LA](https://njnm.shinyapps.io/ReproHack_PDLA19/)                                         | 2019-12-03 | 12:30:00    | 17:30:00  | Los Angeles | USA         |
+| title                                                                                                                       | date       | start\_time | end\_time | city        | country     |
+| :-------------------------------------------------------------------------------------------------------------------------- | :--------- | :---------- | :-------- | :---------- | :---------- |
+| [ReproHack @ OpenCon Berlin](https://github.com/annakrystalli/OpenConBerlin_ReproHack)                                      | 2016-11-24 | 13:00:00    | 18:00:00  | Berlin      | Germany     |
+| [ReproHack @ OpenCon London](https://github.com/OpenCon-London/OpenCon_London-Doathon/blob/master/README.md)                | 2017-11-21 | 09:00:00    | 17:00:00  | London      | UK          |
+| [ReproHack @ CarpentryConnect Mcr](https://sheffield-university.shinyapps.io/ReproHack_CCMcr/)                              | 2019-06-27 | 09:30:00    | 15:30:00  | Manchester  | UK          |
+| [ReproHack NL](https://www.eventbrite.co.uk/e/reprohack-nl-tickets-73258469053?aff=erelexpmlt)                              | 2019-11-30 | 10:00:00    | 17:00:00  | Leiden      | Netherlands |
+| [Reprohack @ PyData LA](https://njnm.shinyapps.io/ReproHack_PDLA19/)                                                        | 2019-12-03 | 12:30:00    | 17:30:00  | Los Angeles | USA         |
+| [N8 CIR ReproHack Newcastle](https://www.eventbrite.co.uk/e/n8-cir-reprohack-newcastle-university-tickets-83584660971)      | 2020-01-21 | 10:00:00    | 17:00:00  | Newcastle   | UK          |
+| [N8 CIR ReproHack Leeds](https://www.eventbrite.co.uk/e/n8-cir-reprohack-university-of-leeds-tickets-83582961889)           | 2020-02-11 | 10:00:00    | 17:00:00  | Leeds       | UK          |
+| [N8 CIR ReproHack Liverpool](https://www.eventbrite.co.uk/e/n8-cir-reprohack-university-of-liverpool-tickets-83584650941)   | 2020-02-25 | 10:00:00    | 17:00:00  | Liverpool   | UK          |
+| [N8 CIR ReproHack Sheffield](https://www.eventbrite.co.uk/e/n8-cir-reprohack-university-of-sheffield-tickets-83581940835)   | 2020-03-10 | 10:00:00    | 17:00:00  | Sheffield   | UK          |
+| [N8 CIR ReproHack Manchester](https://www.eventbrite.co.uk/e/n8-cir-reprohack-university-of-manchester-tickets-83583756265) | 2020-03-12 | 10:00:00    | 17:00:00  | Manchester  | UK          |
 
 ## Map of Reprohacks
 
@@ -176,8 +175,11 @@ milestones
   - **Blogpost**: [Reprohacking at CarpentryConnect
     Manchester 2019](https://software.ac.uk/blog/2019-08-07-reprohacking-carpentryconnect-manchester-2019)
   - **Comunity Call**: Section on ReproHack on [Reproducible Research
-    with R, rOpenSci Community
-Call](https://vimeo.com/351259131)
+    with R, rOpenSci Community Call](https://vimeo.com/351259131)
+  - **Blogpost**: [Reproducibility Hackathon Netherlands – the
+    aftermath](https://www.software.ac.uk/blog/2020-01-15-reproducibility-hackathon-netherlands-aftermath)
+  - **Blogpost**: [N8 CIR ReproHack Northern Tour -
+    Winter 2020](https://n8cir.org.uk/news/reprohacks/)
 
 ## Many ways to ReproHack\!
 
