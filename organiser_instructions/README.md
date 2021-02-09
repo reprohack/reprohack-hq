@@ -19,7 +19,7 @@ There are multiple ways to organize a Reprohack, depending on who is your target
 
 ![](workflow.png)
 
-- [ ] Choose your Reprohack Flavor!
+- [ ] Choose your Reprohack Flavor! (Choose from [this page]())
 
 ### 2. What preparations are necesary before the event?
 
@@ -59,7 +59,7 @@ There are multiple ways to organize a Reprohack, depending on who is your target
     + Requirement to have a shinyapps.io account or access to a shiny server/institutional shinyapps.io account. Although it is easy to set up a shinyapps.io account, there is a cap on the amount of traffic to the app allowed in the free account and upgrading the subscription to run an event might be required. It is also slow to load.
 
 
-[**Example:**](https://sheffield-university.shinyapps.io/ucl-oa_week-reprohack/)
+[**Example of the Shiny app for: UCL ReproHack - Open Access week**](https://sheffield-university.shinyapps.io/ucl-oa_week-reprohack/)
 
 #### Instructions to use the Shinny app
 
