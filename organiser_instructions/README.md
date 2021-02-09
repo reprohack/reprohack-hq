@@ -14,14 +14,18 @@
 ### 1. What kind of Reprohack would you like to host?
 
 There are multiple ways to organize a Reprohack, depending on who is your target audience.
-We have compiled some Reprohack "flavors" that you can chose from in [this page]() and check the following flowchart for more info! 
-![](assets/workflow.png)
+
+- [ ] Check the following flowchart:
+
+![](workflow.png)
+
+- [ ] Choose your Reprohack Flavor!
 
 ### 2. What preparations are necesary before the event?
 
 - [ ] Create the event, you can use Eventbrite or a similar platform for broader audience. 
 
-- [ ] Collate a paper list for participants to choose from. To do this you will have to :
+- [ ] Collate a paper list for participants to choose from.
   + Currently we have this [paper submission form](https://drive.google.com/open?id=1-Q-dQQu47ytCg2Z7F99hzCSxewLCbPUi8UlZWg0JYjI) available. 
   + Make a list of the papers to reprohack for the event day.
   
@@ -32,13 +36,16 @@ We have compiled some Reprohack "flavors" that you can chose from in [this page]
 ### 3. For the event.
 
 - [ ] You can use these [introductory slides]() as a template for welcoming all participants.
+
 - [ ] Create a hackpad (eg etherpad, hack.md, googledoc) for collaborative notetaking at the event (optional)
     + you can use this [hackmd.io template](https://hackmd.io/@annakrystalli/reprohack-hackpad-tmpl) if you wish
+    
 - [ ] Share the [author feedback form](https://drive.google.com/open?id=1KRooOAtbmOzIES1h2T9Gvt7AaPFLDS0BQUZRiimJZSU) where participants can fill details on their experience reproducing a specific paper.
 
 ### 4. After the event.
 
 - [ ] Share the feedback to authors who contributed with their papers!
+
  + To do this we have created an `r pagedown script` that imports the data from the author feedback form, creates a letter to the author containing all feedback, and it can be shared via email using the `blastula` package.
  
  + Check [here]() for the script.
