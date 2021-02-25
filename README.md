@@ -5,7 +5,7 @@ ReproHack HQ
 
 Welcome to the ReproHack Headquarters\! :tada:
 
-<img src="hex/reprohack.png" width=150px>
+<img src="organiser_instructions/logo-hex/reprohack.png" width=150px>
 
 <!-- badges: start -->
 
