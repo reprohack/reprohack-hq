@@ -27,7 +27,7 @@ public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostat
 > going forwards. It is still very much under construction and buggy but
 > hoping to have it functional by early next year.*
 > 
-> *You can [check it out](http://annakrystalli.pythonanywhere.com/) or
+> *You can [check it out](http://reprohack.org) or
 > if you have Django skills
 > [contribute](https://github.com/reprohack/reprohack_site)\!*
 
