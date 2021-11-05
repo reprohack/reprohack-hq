@@ -21,15 +21,11 @@ public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostat
 
 <br>
 
-> ## 🚧 NEW HUB UNDER CONSTRUCTION\! 🚧
+> ## :tada:  NEW HUB CONSTRUCTION COMPLETE\! :tada:
 > 
-> *We are building a custom website to facilitate ReproHack activities
-> going forwards. It is still very much under construction and buggy but
-> hoping to have it functional by early next year.*
+> OUR NEW SITE IS NOW READY!
 > 
-> *You can [check it out](http://reprohack.org) or
-> if you have Django skills
-> [contribute](https://github.com/reprohack/reprohack_site)\!*
+> ## Find us at [reprohack.org](http://reprohack.org) 
 
 -----
 
